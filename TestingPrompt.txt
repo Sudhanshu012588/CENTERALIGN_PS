@@ -1,0 +1,15 @@
+inside the sandbox create a folder name NewFolder and inside it create a file name newFile.txtfor
+
+make a folder name test and inside it create a test1.txt file with hello written inside it.
+
+Create a folder called test2 and put hello.txt inside it.
+
+write in hello.txt "Hello Again"
+
+create a file name star.py and write a python code to print an equlateral traiangle using *
+
+find Hello.txt and append it with "Hello Again"
+
+find retail_dashboard.png and open it.
+
+find resume_format.pdf and open it.
